@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Viktor! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
-<!--
-**VAZ0N4ik/VAZ0N4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+from+Russia)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaz0n4ik&theme=2077)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaz0n4ik&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaz0n4ik&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaz0n4ik&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaz0n4ik&theme=2077)
+
+
+## 🛠 Skills
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Something smart...
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
