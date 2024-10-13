@@ -4,9 +4,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaz0n4ik&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaz0n4ik&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaz0n4ik&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaz0n4ik&theme=2077) $~~~$ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaz0n4ik&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaz0n4ik&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaz0n4ik&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaz0n4ik&theme=2077) $~~~$ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaz0n4ik&theme=2077)
 
 
 ## 🛠 Skills
